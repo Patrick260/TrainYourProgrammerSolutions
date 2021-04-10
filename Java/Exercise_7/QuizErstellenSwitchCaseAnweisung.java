@@ -1,5 +1,3 @@
-package de.patrick260.trainYourProgrammer.exercise_7;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
