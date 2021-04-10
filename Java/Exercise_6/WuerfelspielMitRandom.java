@@ -1,5 +1,3 @@
-package de.patrick260.trainYourProgrammer.exercise_6;
-
 import java.util.Random;
 
 public class WuerfelspielMitRandom {
