@@ -1,5 +1,3 @@
-package de.patrick260.trainYourProgrammer.exercise_19;
-
 public class DurchschnittlicheNiederschlagsmenge {
 
     public static void main(String[] args) {
