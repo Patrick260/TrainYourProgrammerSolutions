@@ -1,5 +1,3 @@
-package de.patrick260.trainYourProgrammer.exercise_15;
-
 public class FunktionWelcheMinimumUndMaximumAusEinemArrayZurückgibt {
 
     public static void main(String[] args) {
